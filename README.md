@@ -3,7 +3,7 @@
 
 사용자 경험을 개선하고, 운영 효율성을 높이는 소프트웨어 엔지니어를 목표로 합니다.
 
-📭 contact : hyeongyungim7@gmail.com
+📭 Contact : hyeongyungim7@gmail.com
 
 ## Projects
 
@@ -22,7 +22,7 @@ Noddy [[🔗프론트엔드 레포지토리]](https://github.com/Noddyhub/Noddy-
 
 ## Tech Stack
 ### 💻 프론트엔드
-* JavaScript, TypeScript, React, Zustand
+* JavaScript, TypeScript, React, Tailwind CSS, Zustand
 
 ### 🧑‍💻 백엔드
 * Node.js, Express, NestJS, Redis, MongoDB
