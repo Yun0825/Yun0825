@@ -5,8 +5,6 @@
 
 📭 contact : hyeongyungim7@gmail.com
 
-<br>
-
 ## Projects
 
 WiPeer [[🔗프론트엔드 레포지토리]](https://github.com/WiPeerhub/WiPeer-FE) [[🔗 백엔드 레포지토리]](https://github.com/WiPeerhub/WiPeer-BE) [[🔗 인프라 레포지토리]](https://github.com/WiPeerhub/WiPeer-Infra)
@@ -21,8 +19,6 @@ Noddy [[🔗프론트엔드 레포지토리]](https://github.com/Noddyhub/Noddy-
 - 에어팟의 모션 센서를 활용해 사용자의 시야 움직임에 따라 마우스 커서를 조작하는 macOS 앱입니다.
 - macOS 앱과 React 웹 대시보드를 WebSocket으로 연동하여 실시간 설정 값 제어 기능을 지원합니다.
 - 머리 기울기에 따라 스크롤 속도가 자동으로 조절되는 스크롤 모드를 지원합니다.
-
-<br>
 
 ## Tech Stack
 ### 💻 프론트엔드
@@ -39,8 +35,6 @@ Noddy [[🔗프론트엔드 레포지토리]](https://github.com/Noddyhub/Noddy-
 
 ### 🛠 협업
 * Git, Figma, Notion, Jira, confluence
-
-<br>
 
 ## Work
 * 메가존클라우드(클라우드 엔지니어, 2023.10 ~ 2025.03)
